@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Phichayapha Phuengmak, but I go by Monika!
-- 👀 I’m interested in writing fictional stories, reading books, and transcribing sheet music.
-- 🌱 I’m currently learning Java, C, and C++ while re-learning Python.
+- 👋 Hi, I’m Monika Phuengmak!
+- 👀 I’m interested in writing fictional stories, reading books, playing volleyball, and transcribing music score.
+- 🌱 I’m currently working on a project in C++ while re-learning Python and self-studying CSS.
 - 💞️ I’m working on writing simple programs that helps me calculate how much items and resources I would need
      to craft an Epic item in the game that I am playing.
 - 📫 How to reach me: monika.pphuengmak@gmail.com
